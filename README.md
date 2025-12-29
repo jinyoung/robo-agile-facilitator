@@ -2,6 +2,12 @@
 
 WebRTC 기반 실시간 화상회의 + AI 퍼실리테이션 이벤트 스토밍 플랫폼
 
+## 🎬 데모 영상
+
+[![Event Storming Demo](https://img.youtube.com/vi/9e-vO8iKR-U/0.jpg)](https://youtu.be/9e-vO8iKR-U)
+[![AI Facilitator Demo](https://img.youtube.com/vi/qi7mGj3whCI/0.jpg)](https://youtu.be/qi7mGj3whCI)
+[![WebRTC Video Demo](https://img.youtube.com/vi/r7U4eBbcLvY/0.jpg)](https://youtu.be/r7U4eBbcLvY)
+
 ## 🎯 주요 기능
 
 - **실시간 화상회의**: WebRTC 기반 P2P 비디오/오디오 통화
